@@ -1,0 +1,10 @@
+# npm modules
+node_modules/
+test/
+dist/
+package-lock.json
+
+# vim temp file
+*.swp
+# macOS generated
+.DS_Store
