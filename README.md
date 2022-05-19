@@ -7,7 +7,7 @@
 
 ### Install
 ```
-> npm install vue-power
+> npm install vue-power-show
 ```
 
 ### Usage
