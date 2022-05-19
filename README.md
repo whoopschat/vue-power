@@ -18,7 +18,7 @@ import vue_power from 'vue-power-show';
 
 // install
 vue.use(vue_power);
-// set report handler
+// set power handler
 vue_power.setPowerHandler((param) => {
     // check power
     return true;
